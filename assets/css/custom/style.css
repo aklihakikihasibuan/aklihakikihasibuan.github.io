@@ -1,0 +1,98 @@
+#hero:before {
+    background: rgba(255, 255, 255, 0.5);
+}
+#hero p span {
+    color: #2CC8A7;
+}
+.bg-main-color {
+    background: #2CC8A7;
+}
+.bg-outline-color {
+    border: 1px solid #2CC8A7;
+}
+.main-color {
+    color: #2CC8A7;
+}
+.portfolio #portfolio-flters li:hover, .portfolio #portfolio-flters li.filter-active {
+    color: #2CC8A7;
+}
+.nav-menu a:hover, .nav-menu .active > a, .nav-menu li:hover > a {
+    background: #2CC8A7;
+}
+.facts .count-box i {
+    background: #2CC8A7;
+}
+.txt-white h6 {
+    color: white;
+}
+.txt-white ul li a {
+    color: white;
+}
+.section-title h2::after {
+    background: #2CC8A7;
+}
+.resume .resume-item h4 {
+    color: #2CC8A7;
+}
+.resume .resume-item::before {
+    border: solid #2CC8A7;
+}
+.resume .resume-item {
+    border-left: 2px solid #2CC8A7;
+}
+.behance:hover {
+    color:  #053eff ;
+}
+.dribbble:hover {
+    color:  #ea4c89 ;
+}
+.instagram:hover {
+    color:  #3f729b ;
+}
+.linkedin:hover {
+    color:  #0e76a8 ;
+}
+.facebook:hover {
+    color:  #053eff ;
+}
+.twitter:hover {
+    color:  #053eff ;
+}
+.container .social-links a {
+    color: #2CC8A7;;
+}
+.card {
+    border: none;
+}
+.btn-download:hover {
+    color: #2CC8A7;
+}
+.float{
+	position:fixed;
+	width:60px;
+	height:60px;
+	bottom:40px;
+	right:40px;
+    background-color:#2CC8A7;
+    border: 1px solid #fff;
+	color:#FFF;
+	border-radius:50px;
+    text-align:center;
+    box-shadow: 
+    12px 12px 16px 0 rgba(0, 0, 0, 0.25),
+    -8px -8px 12px 0 rgba(255, 255, 255, 0.3);
+}
+
+.my-float{
+    margin-top: 12px;
+}
+.fx-float {
+    font-size: 36px;
+    position: fixed;
+    z-index: 1;
+}
+@media (max-width: 600px) {
+    .mt-c {
+        margin-top: 10px;
+    }
+}
